@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Dosetech\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Dosetech\\.nuget\\packages"
+    ]
+  }
+}
